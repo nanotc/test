@@ -16,7 +16,7 @@ function hh()
 <style type="text/css">
 .jj
 {
-	color:#0000CC;
+	color:#000000;
 }
 .hh
 {color:#F00;
